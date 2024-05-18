@@ -1,3 +1,2 @@
 # edc
-edc
-https://zlatakjshkarova.github.io/edc/
+ https://zlatakjshkarova.github.io/watch/
